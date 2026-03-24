@@ -76,6 +76,4 @@ Our system helps institutions monitor, control, and optimize AI usage for better
 
 <img width="917" height="743" alt="Screenshot 2026-03-19 022035" src="https://github.com/user-attachments/assets/ff7524f0-5693-4992-8da5-089cbd552350" />
 
-Special thanks to our mentor **Akash Dubye** for guidance and support.
-
 ---
